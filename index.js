@@ -32,5 +32,4 @@ bot.on('text', message => {
             return message.reply('prova un\'altra ricerca (in inglese)');
         });
 });
-
 bot.startPolling();
